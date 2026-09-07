@@ -11,3 +11,4 @@ Todo:
 - Leaderboard
 - Win screen with infinite mode
 - Pipes mechanics
+- Organize project files and assets
